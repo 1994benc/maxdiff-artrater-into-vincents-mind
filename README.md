@@ -1,5 +1,5 @@
 # Art Rater (MaxDiff Version) for "Into Vincent's Mind" Project
-View it at https://artrater.web.app
+View it at https://thelettersproject.web.app
 ## Run the application locally
 Ensure that you have NodeJS installed https://nodejs.org/en/
 
